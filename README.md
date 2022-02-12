@@ -1,4 +1,4 @@
-# Kokiku App
+# Image Machine App
 
 This app try to classify images
 
